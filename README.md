@@ -9,10 +9,11 @@ These font exist also as regular computer font for your software or websites
 but it's not monoline (it's how it will be when it will be drawn by a laser)
 
 You can find all the information on our official website:
-**[www.notsonoisy.com/notsolaser](http://www.notsonoisy.com/notsolaser)
+**[www.notsonoisy.com/notsolaser](http://www.notsonoisy.com/notsolaser)**
+
  /)_/) NOTsoNOISY
 ( x_x) GUILLAUME
-(/   ) REYMOND**
+(/   ) REYMOND
 
 These programs and files are free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
