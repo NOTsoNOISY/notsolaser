@@ -7,9 +7,9 @@ for drawing text with a laser/engraver with simple straight lines.** (like the H
 Example:
 ![Image](https://github.com/NOTsoNOISY/notsolaser/blob/master/notsolaser_exemple1.png)
 
-1. These font can be use in **Inkscape** with an extension
-2. It can be used in **Illustrator** with a script
-3. These font exist also as regular computer font for your software or websites, but it's not real monoline in this case (it's how it will be when it will be drawn by a laser)
+1. These font can be use in **Inkscape** as an extension
+2. It can be used in **Illustrator** as a script
+3. These font exist also as regular computer font for your software or websites, but it's not real monoline in this case (it's how it will look when it will be drawn by a laser)
 
 More info soon...
 
