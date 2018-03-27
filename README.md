@@ -4,6 +4,7 @@
 **"notsolaser" is a font created in march 2018 by NOTsoNOISY GUILLAUME REYMOND
 for drawing text with a laser/engraver with simple straight lines.** (like the Hershey fonts)
 
+Example:
 ![Image](https://github.com/NOTsoNOISY/notsolaser/blob/master/notsolaser_exemple1.png)
 
 1. These font can be use in **Inkscape** with an extension
@@ -21,7 +22,8 @@ Our our official website:
 (/   ) REYMOND
 www.notsonoisy.com
 ```
-![Image](https://github.com/NOTsoNOISY/notsolaser/blob/master/notsolaser_exemple2.png)
+Exemple: The "Notsolaser" font used for codding in Sublime Text:
+![Image](https://github.com/NOTsoNOISY/notsolaser/blob/master/notsolaser_exemple3.png)
 
 These programs and files are free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
