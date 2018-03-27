@@ -4,14 +4,16 @@
 **"notsolaser" is a font created in march 2018 by NOTsoNOISY GUILLAUME REYMOND
 for drawing text with a laser/engraver with simple straight lines.** These font can be use in **Inkscape** with an extension or in **Illustrator** with a script. These font exist also as regular computer font for your software or websites, but it's not real monoline in this case (it's how it will be when it will be drawn by a laser)
 
-You can find all the information on our official website:
-**[www.notsonoisy.com/notsolaser](http://www.notsonoisy.com/notsolaser)**
+More info soon...
+
+Our our official website:
+**[www.notsonoisy.com](http://www.notsonoisy.com)**
 
 ```
  /)_/) NOTsoNOISY
 ( x_x) GUILLAUME
 (/   ) REYMOND
-www.notsonoisy.com
+**[www.notsonoisy.com](http://www.notsonoisy.com)**
 ```
 
 These programs and files are free software; you can redistribute it and/or modify
