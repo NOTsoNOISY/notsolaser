@@ -16,12 +16,6 @@ More info soon...
 Our our official website:
 **[www.notsonoisy.com](http://www.notsonoisy.com)**
 
-```
- /)_/) NOTsoNOISY
-( x_x) GUILLAUME
-(/   ) REYMOND
-www.notsonoisy.com
-```
 Exemple: The "Notsolaser" font used for codding in Sublime Text:
 ![Image](https://github.com/NOTsoNOISY/notsolaser/blob/master/notsolaser_exemple3.png)
 
