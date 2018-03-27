@@ -11,7 +11,7 @@ but it's not monoline (it's how it will be when it will be drawn by a laser)
 You can find all the information on our official website:
 **[www.notsonoisy.com/notsolaser](http://www.notsonoisy.com/notsolaser)**
 
-'''
+'''javascript
  /)_/) NOTsoNOISY
 ( x_x) GUILLAUME
 (/   ) REYMOND
