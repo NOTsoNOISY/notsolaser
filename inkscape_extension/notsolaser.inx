@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+  <_name>notsolaser Text</_name>
+  <id>org.notsonoisy.render.notsolaser</id>
+  <dependency type="executable" location="extensions">notsolaser.py</dependency>
+  <dependency type="executable" location="extensions">notsolaser.py</dependency>
+  <dependency type="executable" location="extensions">inkex.py</dependency>
+
+  <param name="tab" type="notebook">
+    <page name="splash" _gui-text="Render Text">
+
+<_param indent="1" name="splashpage" type="description" appearance="header">
+Notsolaser Text: Engraving Fonts for Inkscape
+
+</_param>
+      <param indent="2" name="text" type="string" _gui-text="Text:">The Quick Brown Fox Jumps Over a Lazy Dog</param>
+      <_param name="emptyspace" type="description" xml:space="preserve"> 
+</_param>
+
+    </page>
+    <page name="info" _gui-text="About Notsolaser Text">
+<_param indent="1" name="aboutTitle" type="description" appearance="header">Notsolaser Text 1.0</_param>
+<_param name="aboutpage" type="description" xml:space="preserve">adapted from the Hershey Text 2.0
+-----------------------
+This tool renders a line of text using specialized
+"stroke" or "engraving" fonts designed for plotters. 
+
+Whereas regular "outline" fonts (e.g., TrueType) work
+by filling in the region inside an invisible outline,
+engraving fonts are composed only of individual lines
+or strokes; much like human handwriting.
+
+Engraving fonts are used for creating text paths that
+computer controlled drawing and cutting machines (from
+pen plotters to CNC routers) can efficiently follow. 
+</_param>
+</page>
+
+<page name="info" _gui-text="Credits">
+<_param name="aboutpage" type="description" xml:space="preserve">
+This is a modified version of "Hershey Text 2.0" extension
+for writting monoline text in Inkscape 
+from Windell H. Oskay, www.evilmadscientist.com
+This extension use the original monoline font "Notsolaser" 
+created in march 2018 by NOTsoNOISY GUILLAUME REYMOND
+http://www.notsonoisy.com/notsolaser
+------------------------------------
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+</_param>
+</page>
+</param>
+
+  <effect needs-live-preview="true" needs-document="true">
+    <object-type>all</object-type>
+    <effects-menu>
+      <submenu _name="Render"/>
+    </effects-menu>
+  </effect>
+    <script>
+      <command reldir="extensions" interpreter="python">notsolaser.py</command>
+    </script>
+</inkscape-extension>
