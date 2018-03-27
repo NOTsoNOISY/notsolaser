@@ -6,6 +6,10 @@ for a new simplier line font called "notsolaser"
 These font exist also as regular computer font: notsolaser.otf
 http://www.notsonoisy.com/notsolaser
 -------------------------------------------------------------------------
+There is an Inkscape extension, an Illustrator script 
+and some font files (regular and bold)
+-------------------------------------------------------------------------
+
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation; either version 2 of the License, or
