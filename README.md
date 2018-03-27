@@ -8,14 +8,14 @@ More info soon...
 
 Our our official website:
 **[www.notsonoisy.com](http://www.notsonoisy.com)**
-
+**
 ```
  /)_/) NOTsoNOISY
 ( x_x) GUILLAUME
 (/   ) REYMOND
-**[www.notsonoisy.com](http://www.notsonoisy.com)**
+www.notsonoisy.com
 ```
-
+**
 These programs and files are free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation; either version 2 of the License, or
