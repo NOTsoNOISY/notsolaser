@@ -1,5 +1,5 @@
 # notsolaser
-## a mono line engraver text font - IS extension AI script and fonts
+## a mono line engraver text font - Inkscape extension, Illustrator script and fonts
 
 **"notsolaser" is a font created in march 2018 by NOTsoNOISY GUILLAUME REYMOND
 for drawing text with a laser/engraver with simple straight lines.** (like the Hershey fonts)
