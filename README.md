@@ -21,6 +21,7 @@ Our our official website:
 (/   ) REYMOND
 www.notsonoisy.com
 ```
+![Image](https://github.com/NOTsoNOISY/notsolaser/blob/master/notsolaser_exemple2.png)
 
 These programs and files are free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
