@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'NotsolaserRegular';
+  src: url('NotsolaserRegular.eot?#iefix') format('embedded-opentype'),  url('NotsolaserRegular.otf')  format('opentype'),
+	     url('NotsolaserRegular.woff') format('woff'), url('NotsolaserRegular.ttf')  format('truetype'), url('NotsolaserRegular.svg#NotsolaserRegular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
